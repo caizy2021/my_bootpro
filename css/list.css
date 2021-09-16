@@ -19,3 +19,16 @@
 .my_img1:hover{
 	transform: scale(1.1);
 }
+.page-item.active .page-link{
+	background-color: #007bff !important;
+}
+.page-item .page-link{
+	border-radius: 0.25rem;
+	border-color: #ddd;
+}
+.page-item +.page-item{
+	margin-left: 0.5rem;
+}
+.page-item .page-link:hover{
+	border-color: #0aa1ed;
+}
