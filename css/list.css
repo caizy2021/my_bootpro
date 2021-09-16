@@ -1,0 +1,21 @@
+.my_gray{
+	background: linear-gradient(to bottom,#f0f0f0,#e0e0e0);
+}
+.my_btn1{
+	width: 2rem;height: 2rem;
+	padding: 0;
+	border: 0;
+	font-weight: bolder;
+}
+.my_input1{
+	width: 20%;outline: 0;
+	box-shadow: 0;
+}
+.my_img1{
+	transition: 1s;
+	margin-bottom: 0.2rem;
+	margin-top: 0.6rem;
+}
+.my_img1:hover{
+	transform: scale(1.1);
+}
